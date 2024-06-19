@@ -1,0 +1,13 @@
+{
+    "lastUpdated": "2024-06-19",
+    "data": {
+        "url-image-product": "https://itfishboster.github.io/fishbosterapp-api/images/product",
+        "url-image-product-hd": "https://itfishboster.github.io/fishbosterapp-api/images/product/image-hd",
+        "url-image-disease": "https://itfishboster.github.io/fishbosterapp-api/images/disease",
+        "url-image-banner": "https://itfishboster.github.io/fishbosterapp-api/images/banner",
+        "url-image-front": "https://itfishboster.github.io/fishbosterapp-api/images/agent/front-shop",
+        "url-image-front-hd": "https://itfishboster.github.io/fishbosterapp-api/images/agent/front-shop/image-hd",
+        "url-image-location": "https://itfishboster.github.io/fishbosterapp-api/images/agent/maps-shop",
+        "url-image-photo": "https://itfishboster.github.io/fishbosterapp-api/images/marketing"
+    }
+}
