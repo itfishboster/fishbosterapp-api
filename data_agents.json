@@ -1,6 +1,6 @@
 {
-    "lastUpdated": "2024-06-12",
-    "totalAgents": 389,
+    "lastUpdated": "2024-06-21",
+    "totalAgents": 403,
     "data": [
         {
             "id": "1",
@@ -4669,6 +4669,174 @@
             "url-image-front": "Agen390-JawaTimur-SuburMakmur.png",
             "url-image-location": "Maps390-JawaTimur-SuburMakmur.png",
             "url-google-maps": "https://maps.app.goo.gl/3PYvsjuVTW1M5jB97"
+        },
+        {
+            "id": "391",
+            "name": "Toko Salasa Tani Makmur",
+            "contact": "082141431275",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Cerme",
+            "full-address": "Jl. Raya Cerme Kidul, RT 04 RW 06, Cerme Kidul, Kec. Cerme, Kab. Gresik",
+            "url-image-front": "Agen391-JawaTimur-TokoSalasaTaniMakmur.png",
+            "url-image-location": "Maps391-JawaTimur-TokoSalasaTaniMakmur.png",
+            "url-google-maps": "https://maps.app.goo.gl/EdHnXciwAdnRK4C37"
+        },
+        {
+            "id": "392",
+            "name": "UD Sedia Jaya",
+            "contact": "081333171666",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Duduk Sampeyan",
+            "full-address": "Jl. Pasar No. 331, Brakung, Kec. Duduk Sampeyan, Kab. Gresik",
+            "url-image-front": "Agen392-JawaTimur-UDSediaJaya.png",
+            "url-image-location": "Maps392-JawaTimur-UDSediaJaya.png",
+            "url-google-maps": "https://maps.app.goo.gl/7RBcNMnLpMs2Vo7K7"
+        },
+        {
+            "id": "393",
+            "name": "UD Rawa Indah",
+            "contact": "08510040447",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Dukun",
+            "full-address": "Jl. Raya Dukunanyar, Padang Bandung, Kec. Dukun, Kab. Gresik",
+            "url-image-front": "Agen393-JawaTimur-UDRawaIndah.png",
+            "url-image-location": "Maps393-JawaTimur-UDRawaIndah.png",
+            "url-google-maps": "https://maps.app.goo.gl/SVvKUdnrHEgTFG6F9"
+        },
+        {
+            "id": "394",
+            "name": "UD An-Nur",
+            "contact": "081230029228",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Dukun",
+            "full-address": "Jl. Sumur Bengawan Lasem Sidayu, Sambogunung, Kec. Dukun, Kab. Gresik",
+            "url-image-front": "Agen394-JawaTimur-UDAn-Nur.png",
+            "url-image-location": "Maps394-JawaTimur-UDAn-Nur.png",
+            "url-google-maps": "https://maps.app.goo.gl/FJhHKZmbQ71PjdmE8"
+        },
+        {
+            "id": "395",
+            "name": "UD Varia Karya",
+            "contact": "081357334655",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Gresik",
+            "full-address": "Jl. Raya Pahlawan No. 25, Sidayu, Raci Tengah, Kec. Gresik, Kab. Gresik",
+            "url-image-front": "Agen395-JawaTimur-UDVariaKarya.png",
+            "url-image-location": "Maps395-JawaTimur-UDVariaKarya.png",
+            "url-google-maps": "https://maps.app.goo.gl/jvrBHWMC7uWt9DMe7"
+        },
+        {
+            "id": "396",
+            "name": "Toko Padimulya",
+            "contact": "081216152437",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Manyar",
+            "full-address": "Pasar Sembayat, Kec. Manyar, Kab. Gresik",
+            "url-image-front": "",
+            "url-image-location": "",
+            "url-google-maps": ""
+        },
+        {
+            "id": "397",
+            "name": "Mitra Farmindo Sejati",
+            "contact": "081337364797",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Menganti",
+            "full-address": "Jl. Raya Boboh No. 140, Boboh, Kec. Menganti, Kab. Gresik",
+            "url-image-front": "Agen397-JawaTimur-MitraFarmindoSejati.png",
+            "url-image-location": "Maps397-JawaTimur-MitraFarmindoSejati.png",
+            "url-google-maps": "https://maps.app.goo.gl/SFFsaoXfxRQhnTwVA"
+        },
+        {
+            "id": "398",
+            "name": "UD Renes",
+            "contact": "081515134067",
+            "area": "Jawa Timur",
+            "city": "Kab. Gresik",
+            "subdistrict": "Sidayu",
+            "full-address": "Jl. Raya Deandles, Golokan, Kec. Sidayu, Kab. Gresik",
+            "url-image-front": "Agen398-JawaTimur-UDRenes.png",
+            "url-image-location": "Maps398-JawaTimur-UDRenes.png",
+            "url-google-maps": "https://maps.app.goo.gl/cagUX7dQojxEHGFJ7"
+        },
+        {
+            "id": "399",
+            "name": "Toko Sumber Pakan",
+            "contact": "085645101710",
+            "area": "Jawa Timur",
+            "city": "Kab. Sidoarjo",
+            "subdistrict": "Candi",
+            "full-address": "Jl. Kedungpeluk RT 09 RW 03, Kalipecabean, Kec. Candi, Kab. Sidoarjo",
+            "url-image-front": "Agen399-JawaTimur-TokoSumberPakan.png",
+            "url-image-location": "Maps399-JawaTimur-TokoSumberPakan.png",
+            "url-google-maps": "https://maps.app.goo.gl/xDpb2PENbfwJFDWJA"
+        },
+        {
+            "id": "400",
+            "name": "Cendrawasih PS",
+            "contact": "08123030087",
+            "area": "Jawa Timur",
+            "city": "Kab. Sidoarjo",
+            "subdistrict": "Candi",
+            "full-address": "Ruko Jati Kepuh Blok A no. 1, Larangan, Kec. Candi, Kab. Sidoarjo",
+            "url-image-front": "Agen400-JawaTimur-CendrawasihPS.png",
+            "url-image-location": "Maps400-JawaTimur-CendrawasihPS.png",
+            "url-google-maps": "https://maps.app.goo.gl/EXzNACMMXb1PQRPz7"
+        },
+        {
+            "id": "401",
+            "name": "Toko Mas Rifki",
+            "contact": "082143443335",
+            "area": "Jawa Timur",
+            "city": "Kab. Sidoarjo",
+            "subdistrict": "Krembung",
+            "full-address": "Dusun Jenggot RT 07 RW 04, Kec. Krembung, Kab. Sidoarjo",
+            "url-image-front": "",
+            "url-image-location": "",
+            "url-google-maps": ""
+        },
+        {
+            "id": "402",
+            "name": "Toko Sumber Rejeki",
+            "contact": "081331540115",
+            "area": "Jawa Timur",
+            "city": "Kab. Sidoarjo",
+            "subdistrict": "Tanggulangin",
+            "full-address": "Desa Sentul RT 10 RW 03, Kec. Tanggulangin, Kab. Sidoarjo",
+            "url-image-front": "Agen402-JawaTimur-TokoSumberRejeki.png",
+            "url-image-location": "Maps402-JawaTimur-TokoSumberRejeki.png",
+            "url-google-maps": "https://maps.app.goo.gl/rPHL3Wx22sZAWsKE9"
+        },
+        {
+            "id": "403",
+            "name": "Sonny Aquarium",
+            "contact": "083856682111",
+            "area": "Jawa Timur",
+            "city": "Kota Surabaya",
+            "subdistrict": "Wonokromo",
+            "full-address": "Pasar Ikan Hias Gunungsari (Stand No. 1), Sawunggaling, Kec. Wonokromo, Kota Surabaya",
+            "url-image-front": "Agen403-JawaTimur-SonnyAquarium.png",
+            "url-image-location": "Maps403-JawaTimur-SonnyAquarium.png",
+            "url-google-maps": "https://maps.app.goo.gl/Ee3NyxLdo4haZwBh9"
+        },
+        {
+            "id": "404",
+            "name": "Brawet Aquarium",
+            "contact": "081554207582",
+            "area": "Jawa Timur",
+            "city": "Kota Surabaya",
+            "subdistrict": "Wonokromo",
+            "full-address": "Jl. Bratang Wetan No. 42, Ngagelrejo, Kec. Wonokromo, Kota Surabaya",
+            "url-image-front": "Agen404-JawaTimur-BrawetAquarium.png",
+            "url-image-location": "Maps404-JawaTimur-BrawetAquarium.png",
+            "url-google-maps": "https://maps.app.goo.gl/XkfeA3wRm3rW1YiR8"
         }
     ]
 }
