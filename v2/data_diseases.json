@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2024-06-19",
+    "lastUpdated": "2024-06-24",
     "total": 9,
     "data": [
         {
@@ -62,10 +62,8 @@
             "species": "Ikan Lele",
             "url-image-disease": "Penyakit-Jamur.png",
             "symptom": [
-                "Adanya lapisan putih atau berwarna pada tubuh ikan, terutama di bagian kulit dan sirip",
-                "Perubahan warna pada kulit ikan, seperti belang-belang atau warna yang tidak biasa",
-                "Kulit ikan terlihat lembab atau berkilap akibat pertumbuhan jamur",
-                "Kulit ikan mengalami pengelupasan atau pecah-pecah di beberapa bagian",
+                "Adanya lapisan putih atau berwarna pada tubuh ikan, terutama di bagian kulit dan sirip seperti belang-belang atau warna yang tidak biasa",
+                "Kulit ikan terlihat lembab atau berkilap akibat pertumbuhan jamur dan mengalami pengelupasan atau pecah-pecah di beberapa bagian",
                 "Perubahan perilaku ikan, seperti penurunan nafsu makan atau berenang tidak teratur"
             ],
             "reason": [
@@ -117,23 +115,20 @@
             "url-image-disease": "Penyakit-Kuning.png",
             "symptom": [
                 "Warna tubuh ikan menguning atau kekuningan pada beberapa bagian tubuh",
-                "Penurunan nafsu makan",
+                "Penurunan nafsu makan sehingga pertumbuhan ikan terhambat",
                 "Perilaku ikan menjadi lamban atau kurang aktif",
-                "Pertumbuhan ikan terhambat",
                 "Kematian ikan secara masal dalam populasi"
             ],
             "reason": [
-                "Infeksi bakteri",
+                "Infeksi bakteri atau penyakit parasit",
                 "Kualitas air yang buruk",
                 "Pakan yang tidak seimbang",
-                "Stres lingkungan",
-                "Penyakit parasit"
+                "Stres lingkungan"
             ],
             "prevention": [
-                "Jaga kualitas air dengan melakukan pergantian air secara rutin",
-                "Pastikan pakan yang diberikan berkualitas dan seimbang",
+                "Jaga kualitas air dengan melakukan pergantian air secara rutin, gunakan sistem filtrasi yang baik",
                 "Hindari kepadatan populasi ikan yang terlalu tinggi",
-                "Gunakan sistem filtrasi yang baik",
+                "Pastikan pakan yang diberikan berkualitas dan seimbang",
                 "Berikan pakan tambahan yang mengandung vitamin dan mineral untuk meningkatkan daya tahan tubuh ikan"
             ],
             "treatment": [
@@ -151,9 +146,9 @@
             "symptom": [
                 "Perubahan nafsu makan",
                 "Perubahan warna feses, usus, dan hepatopankreas udang",
-                "Perubahan kondisi pergerakan (aktif atau tidak)",
                 "Perubahan warna tubuh udang",
-                "Perubahan kondisi karapas udang"
+                "Perubahan kondisi karapas udang",
+                "Perilaku udang menjadi lethargic atau kurang aktif"
             ],
             "reason": [
                 "Infeksi bakteri dari genus Vibrio, terutama Vibrio parahaemolyticus, Vibrio fluvialis, Vibrio alginolyticus, dan Vibrio mimicus",
@@ -162,12 +157,11 @@
             "prevention": [
                 "Pastikan kualitas air dan kebersihan kolam terjaga dengan baik",
                 "Pilih benih udang yang sehat dan bebas dari penyakit",
-                "Hindari overfeeding (memberikan pakan berlebihan)",
                 "Jaga kepadatan populasi udang agar tidak terlalu tinggi",
-                "Periksa kualitas pakan dan pastikan nutrisi seimbang"
+                "Periksa kualitas pakan dan pastikan nutrisi seimbang, hindari overfeeding (memberikan pakan berlebihan)"
             ],
             "treatment": [
-                "Tebarkan Probiotik Lactobacillus dengan Boster Bio Lacto sebanyak 500 ml, Boster Planktop sebanyak 300 ml, Boster Amino Liquid sebanyak 150 ml, Boster Manstap sebanyak 100 gram, Boster Vit. B sebanyak 50 gram, Ragi Tape sebanyak 10 gram, dan Air sebanyak 50 liter.",
+                "Tebarkan Probiotik Lactobacillus dengan Boster Bio Lacto sebanyak 500 ml, Boster Planktop sebanyak 300 ml, Boster Amino Liquid sebanyak 150 ml, Boster Manstap sebanyak 100 gram, Boster Vit. B Kompleks sebanyak 50 gram, Ragi Tape sebanyak 10 gram, dan Air sebanyak 50 liter.",
                 "Aerasi selama 8 - 24 jam.",
                 "Puasakan terlebih dahulu selama 24 jam.",
                 "Lakukan pemberian pakan secara bertahap mulai dari 30% - 50% - 70% - 100%.",
@@ -180,8 +174,7 @@
             "species": "Udang",
             "url-image-disease": "Virus-Myo.png",
             "symptom": [
-                "Udang mulai memucat",
-                "Gumpalan putih di bagian perut dan segmen tubuh lainnya",
+                "Udang mulai memucat, terdapat gumpalan putih di bagian perut dan segmen tubuh lainnya",
                 "Memerah di ruas bawah hingga ekor",
                 "Kram pada jaringan otot udang",
                 "Hepatopankreas mengecil"
@@ -192,9 +185,8 @@
             "prevention": [
                 "Pastikan kualitas air dan kebersihan kolam terjaga dengan baik",
                 "Pilih benih udang yang sehat dan bebas dari penyakit",
-                "Hindari overfeeding (memberikan pakan berlebihan)",
                 "Jaga kepadatan populasi udang agar tidak terlalu tinggi",
-                "Periksa kualitas pakan dan pastikan nutrisi seimbang"
+                "Periksa kualitas pakan dan pastikan nutrisi seimbang, hindari overfeeding (memberikan pakan berlebihan)"
             ],
             "treatment": [
                 "Perlakuan ke air, campurkan Boster Manstap dengan dosis 2 ppm, MgCl dengan dosis 2 ppm, CaCl dengan dosis 1 ppm, KCl dengan dosis 1 ppm (food grade), tebarkan ke kolam pada waktu sore hari selama 3 hari berturut-turut.",
@@ -208,7 +200,7 @@
             "species": "Udang",
             "url-image-disease": "Penyakit-Bintik-Hitam.png",
             "symptom": [
-                "Udang berenang tidak teratur di permukaan dan mati jika menabrak tanggul",
+                "Udang berenang tidak teratur di permukaan dan mati jika menabrak",
                 "Nafsu makan udang menurun sehingga perutnya kosong dan udang menjadi lemas",
                 "Terdapat bintik hitam pada karapas udang dan goresan tidak hilang saat digores dengan kuku",
                 "Udang mengalami stres akibat perubahan suhu, seperti hujan atau panas terik"
@@ -219,11 +211,8 @@
                 "Penurunan mutu udang akibat proses biokimia dan autolisis setelah pemanenan"
             ],
             "prevention": [
-                "Gunakan anti black spot seperti sodium metabisulfite (Na2S2O5) pasca panen",
                 "Simpan udang pada suhu beku -20 s/d -25 ℃ atau kemas dengan vacuum setelah pemanenan",
-                "Tambahkan larutan asam karbonat atau natrium bisulfit (NaHSO3) ke dalam larutan garam dingin",
-                "Jaga kualitas air tambak dengan baik untuk menghindari penyebaran penyakit",
-                "Tambahkan ekstrak bawang yang kaya akan senyawa polifenol untuk menghambat pembentukan black spot"
+                "Jaga kualitas air dengan baik untuk menghindari penyebaran penyakit"
             ],
             "treatment": [
                 "Pengobatan ke air, campurkan Boster Manstap dengan dosis 2 ppm, MgCl dengan dosis 2 ppm, CaCl dengan dosis 1 ppm, KCl dengan dosis 1 ppm (food grade), tebarkan ke kolam pada waktu sore hari selama 3 hari berturut-turut.",
@@ -237,23 +226,20 @@
             "url-image-disease": "Penyakit-AHPND.png",
             "symptom": [
                 "Kematian massal dalam populasi udang",
-                "Penurunan nafsu makan",
+                "Penurunan nafsu makan sehingga pertumbuhan udang terhambat",
                 "Warna tubuh udang menjadi gelap atau hitam pada bagian hepatopankreas",
-                "Pertumbuhan udang terhambat",
                 "Perilaku udang menjadi lethargic atau kurang aktif"
             ],
             "reason": [
                 "Infeksi bakteri Vibrio parahaemolyticus yang menghasilkan toksin"
             ],
             "prevention": [
-                "Pastikan sumber air bersih dan berkualitas",
-                "Jaga kebersihan kolam secara teratur",
-                "Hindari overfeeding (memberikan pakan berlebihan)",
-                "Gunakan sistem filtrasi yang baik dan pastikan kondisi air optimal"
+                "Menjaga kebersihan kolam secara teratur dan pastikan sumber air bersih dan berkualitas",
+                "Gunakan sistem filtrasi yang baik dan pastikan kondisi air optimal",
+                "Hindari overfeeding (memberikan pakan berlebihan)"
             ],
             "treatment": [
                 "Isolasi udang yang terinfeksi untuk mencegah penyebaran penyakit",
-                "Pengobatan spesifik dengan antibiotik yang efektif terhadap bakteri Vibrio parahaemolyticus",
                 "Perbaiki kualitas air dan lingkungan budidaya untuk mendukung pemulihan udang",
                 "Pemberian pakan yang seimbang dan berkualitas untuk mendukung sistem kekebalan tubuh udang"
             ]

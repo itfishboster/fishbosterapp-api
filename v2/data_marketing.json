@@ -1,11 +1,12 @@
 {
-    "lastUpdated": "2024-06-18",
+    "lastUpdated": "2024-06-24",
     "total": 17,
     "data": [
         {
             "id": 1,
             "name": "Welly",
             "contact": "081938414321",
+            "job": "Marketing Officer",
             "area": [],
             "city": [],
             "url-image-photo": ""
@@ -14,6 +15,7 @@
             "id": 2,
             "name": "Agus Purnomo",
             "contact": "081225202339",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Tengah"
             ],
@@ -38,6 +40,7 @@
             "id": 3,
             "name": "Arsa",
             "contact": "081343130608",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Tengah"
             ],
@@ -62,6 +65,7 @@
             "id": 4,
             "name": "Sigit",
             "contact": "081392708044",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Tengah",
                 "Yogyakarta"
@@ -94,6 +98,7 @@
             "id": 5,
             "name": "Giri Setiawan",
             "contact": "085940860555",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Tengah",
                 "Yogyakarta"
@@ -126,6 +131,7 @@
             "id": 6,
             "name": "Hasan",
             "contact": "087854836281",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Timur",
                 "Madura"
@@ -145,6 +151,7 @@
             "id": 7,
             "name": "Asy'ari",
             "contact": "085230850007",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Timur",
                 "Madura"
@@ -164,6 +171,7 @@
             "id": 8,
             "name": "Sulung",
             "contact": "081214252470",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Timur",
                 "Bali",
@@ -197,8 +205,9 @@
         },
         {
             "id": 9,
-            "name": "Miko",
+            "name": "Jatmiko",
             "contact": "085856349035",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Timur",
                 "Bali",
@@ -234,6 +243,7 @@
             "id": 10,
             "name": "Ipun",
             "contact": "08121706751",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Timur"
             ],
@@ -260,6 +270,7 @@
             "id": 11,
             "name": "Yuka",
             "contact": "085850520781",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Timur"
             ],
@@ -286,6 +297,7 @@
             "id": 12,
             "name": "Galih",
             "contact": "082331150017",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Timur"
             ],
@@ -303,6 +315,7 @@
             "id": 13,
             "name": "Happy",
             "contact": "085645639239",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Timur"
             ],
@@ -320,6 +333,7 @@
             "id": 14,
             "name": "Imam",
             "contact": "085784417458",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Barat",
                 "Jakarta",
@@ -354,6 +368,7 @@
             "id": 15,
             "name": "Angky",
             "contact": "081216962567",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Barat",
                 "Jakarta",
@@ -386,8 +401,9 @@
         },
         {
             "id": 16,
-            "name": "Agus",
+            "name": "Agus S",
             "contact": "081230836638",
+            "job": "Marketing Coordinator",
             "area": [
                 "Jawa Tengah",
                 "Jawa Barat",
@@ -412,6 +428,7 @@
             "id": 17,
             "name": "Ashadi",
             "contact": "081338788678",
+            "job": "Technical Advisor",
             "area": [
                 "Jawa Tengah",
                 "Jawa Barat",
