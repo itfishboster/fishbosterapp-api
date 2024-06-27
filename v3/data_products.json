@@ -1,6 +1,6 @@
 {
-    "lastUpdated": "2024-06-25",
-    "total": 36,
+    "lastUpdated": "2024-06-27",
+    "total": 23,
     "data": [
         {
             "id": 1,
@@ -36,7 +36,7 @@
             "name": "Boster Amino Liquid",
             "category": "Asam Amino, Cair",
             "type-size": "liter",
-            "url-image-product": "Aminoliquid-1.png",
+            "url-image-product": "Aminoliquid.png",
             "description": "Sebagai perangsang nafsu makan ikan dengan aroma yang disukai ikan, mengandung asam amino lengkap untuk membentuk antibodi dan massa daging.",
             "compositions": [
                 "Vit A 20.000.000 IU",
@@ -132,7 +132,7 @@
             "name": "Boster Aquaenzyms",
             "category": "Multi Enzym, Probiotik, Pengurai Bahan Organik, Peningkat Kualitas Air",
             "type-size": "kg",
-            "url-image-product": "Aquaenzyms-100.png",
+            "url-image-product": "Aquaenzyms.png",
             "description": "Sebagai peningkat kualitas air dengan menguraikan bahan organik dan menekan bakteri patogen.",
             "compositions": [
                 "Bacillus Subtilis 5 x 10⁹ gram",
@@ -209,7 +209,7 @@
             "name": "Boster Blue Copper",
             "category": "Antiseptik Cupri Sulfat, Pembasmi Jamur Bakteri Virus",
             "type-size": "liter",
-            "url-image-product": "BlueCopper-1.png",
+            "url-image-product": "BlueCopper.png",
             "description": "Sebagai antiseptik yang ampuh membasmi bakteri dan virus pada kolam ikan.",
             "compositions": [
                 "Cupri Sulphate 100.000 mg",
@@ -305,7 +305,7 @@
             "name": "Boster Grotop",
             "category": "Nafsu Makan",
             "type-size": "kg",
-            "url-image-product": "Grotop-100.png",
+            "url-image-product": "Grotop.png",
             "description": "Sebagai pemacu pertumbuhan, produk ini meningkatkan metabolisme pencernaan ikan dan penyerapan nutrisi dengan enzim protease yang menyederhanakan protein pakan.",
             "compositions": [
                 "Vit B1 5.000 mg",
@@ -345,7 +345,7 @@
             "name": "Boster Inrofloxs 12",
             "category": "Antibiotik Enrofloxacin, Cair, Serbuk, Pembasmi Bakteri",
             "type-size": "liter",
-            "url-image-product": "Inrofloxs12Cair-100.png",
+            "url-image-product": "Inrofloxs12.png",
             "description": "Sebagai antibiotik yang dapat membunuh bakteri penyebab penyakit ikan.",
             "compositions": [],
             "benefits": [
@@ -374,7 +374,7 @@
             "name": "Boster Inrofloxs 25",
             "category": "Antibiotik Enrofloxacin, Cair, Serbuk, Pembasmi Bakteri",
             "type-size": "liter",
-            "url-image-product": "Inrofloxs25Cair-100.png",
+            "url-image-product": "Inrofloxs25.png",
             "description": "Sebagai antibiotik yang dapat membunuh bakteri penyebab penyakit ikan.",
             "compositions": [],
             "benefits": [
@@ -507,7 +507,7 @@
             "name": "Boster Premix Aquavita",
             "category": "Multivitamin, Mineral, Antibodi",
             "type-size": "kg",
-            "url-image-product": "PremixAquavita-100.png",
+            "url-image-product": "PremixAquavita.png",
             "description": "Sebagai multivitamin dan mineral lengkap yang meningkatkan mutu pakan, nafsu makan, ketahanan terhadap penyakit, dan pertumbuhan ikan.",
             "compositions": [
                 "Vit A 3.000.000 IU",
@@ -566,7 +566,7 @@
             "name": "Boster Progol",
             "category": "Perekat Pakan",
             "type-size": "kg",
-            "url-image-product": "Progol-100.png",
+            "url-image-product": "Progol.png",
             "description": "Sebagai perekat pakan ikan yang mengandung Calcium Ligno Sulfonate, digunakan untuk mengikat suplemen pada pelet tanpa merusak kandungan nutrisi.",
             "compositions": [],
             "benefits": [
@@ -710,7 +710,7 @@
             "name": "Boster Vit. B Kompleks",
             "category": "Vitamin",
             "type-size": "kg",
-            "url-image-product": "VitB-100.png",
+            "url-image-product": "VitB.png",
             "description": "Sebagai peningkat pertumbuhan, nafsu makan, dan metabolisme ikan serta menurunkan konversi pakan.",
             "compositions": [
                 "Vit B1 10.000 mg",
@@ -751,7 +751,7 @@
             "name": "Boster Vit. C",
             "category": "Vitamin",
             "type-size": "kg",
-            "url-image-product": "VitC-100.png",
+            "url-image-product": "VitC.png",
             "description": "Sebagai penghilang segala bentuk stress, meningkatkan nafsu makan dan mempertahankan tubuh terhadap penyakit.",
             "compositions": [],
             "benefits": [
@@ -764,7 +764,7 @@
             "information": "",
             "variations": [
                 {
-                    "size": "100 gr",
+                    "size": "100 gram",
                     "url-image-product": "VitC-100.png",
                     "url-buy-product": "https://shopee.co.id/search?keyword=boster%20vit%20c%20100gr"
                 },
@@ -780,7 +780,7 @@
             "name": "Boster Vitaliquid",
             "category": "Vitamin Cair",
             "type-size": "liter",
-            "url-image-product": "Vitaliquid-1.png",
+            "url-image-product": "Vitaliquid.png",
             "description": "Sebagai multivitamin untuk pertumbuhan ikan, meningkatkan kualitas pakan, mengatasi stress, dan merangsang pertumbuhan optimal.",
             "compositions": [
                 "Vit A 500.000 IU",
