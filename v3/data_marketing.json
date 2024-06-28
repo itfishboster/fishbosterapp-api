@@ -1,14 +1,18 @@
 {
-    "lastUpdated": "2024-06-25",
+    "lastUpdated": "2024-06-28",
     "total": 17,
     "data": [
         {
             "id": 1,
-            "name": "Richard Welly",
+            "name": "Richard Willy",
             "contact": "081938414321",
             "job": "Marketing Officer",
-            "area": [],
-            "city": [],
+            "area": [
+                "Seluruh Wilayah"
+            ],
+            "city": [
+                "Seluruh Kota / Kabupaten"
+            ],
             "url-image-photo": ""
         },
         {
