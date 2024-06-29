@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2024-06-28 17:00:00",
+    "lastUpdated": "2024-06-29 14:00:00",
     "dataAgents": "2024-06-21 11:00:00",
     "dataMarketing": "2024-06-28 17:00:00",
     "dataAreas": "2024-06-12 12:00:00",
@@ -7,5 +7,9 @@
     "dataDiseases": "2024-06-27 14:30:00",
     "dataFullLink": "2024-06-19 10:00:00",
     "dataProducts": "2024-06-27 14:00:00",
-    "buildUpdated": "2"
+    "app": {
+        "appVersion": "1.3.5",
+        "appBuild": "2",
+        "buildUpdated": "20240629140000"
+    }
 }
