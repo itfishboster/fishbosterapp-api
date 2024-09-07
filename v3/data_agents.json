@@ -1,6 +1,6 @@
 {
-    "lastUpdated": "2024-06-21",
-    "total": 403,
+    "lastUpdated": "2024-09-07",
+    "total": 404,
     "data": [
         {
             "id": 1,
@@ -4837,6 +4837,18 @@
             "url-image-front": "Agen404-JawaTimur-BrawetAquarium.png",
             "url-image-location": "Maps404-JawaTimur-BrawetAquarium.png",
             "url-google-maps": "https://maps.app.goo.gl/XkfeA3wRm3rW1YiR8"
+        },
+        {
+            "id": 405,
+            "name": "Toko Pak Made Putra",
+            "contact": "081236545823",
+            "area": "Bali",
+            "city": "Kab. Gianyar",
+            "subdistrict": "Gianyar",
+            "full-address": "",
+            "url-image-front": "",
+            "url-image-location": "",
+            "url-google-maps": ""
         }
     ]
 }
