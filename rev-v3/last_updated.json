@@ -6,11 +6,11 @@
     "dataBanners": "2024-06-11 07:00:00",
     "dataDiseases": "2024-06-27 14:30:00",
     "dataFullLink": "2024-06-19 10:00:00",
-    "dataProducts": "2024-07-01 05:00:00",
+    "dataProducts": "2024-09-27 07:00:00",
     "app": {
         "version": "1.3.11",
-        "versionUpdated": "20-07-2024",
+        "versionUpdated": "27-07-2024",
         "build": "10",
-        "buildUpdated": "20240927070000"
+        "buildUpdated": "20240907070000"
     }
 }

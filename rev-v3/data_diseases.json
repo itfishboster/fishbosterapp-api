@@ -1,0 +1,392 @@
+{
+    "lastUpdated": "2024-06-27",
+    "total": 15,
+    "data": [
+        {
+            "id": 1,
+            "name": "Penyakit Perut Kembung dan Menggantung",
+            "species": "Ikan Lele",
+            "url-image-disease": "Penyakit-Lele-Kembung.png",
+            "symptom": [
+                "Ikan terlihat menggantung di permukaan air",
+                "Perut ikan terlihat kembung dan terasa keras saat disentuh",
+                "Ikan kehilangan nafsu makan",
+                "Pernapasan ikan terlihat cepat dan tidak teratur"
+            ],
+            "reason": [
+                "Over Feeding",
+                "Dasar kolam kotor",
+                "Akumulasi gas beracun (NH3, NO2, H2S)",
+                "Fluktuasi pH air",
+                "Infeksi Bakterial"
+            ],
+            "prevention": [
+                "Beri pakan secukupnya",
+                "Siphon / buang kotoran dengan buka central drain minim 2 kali sehari",
+                "Sterilisasi air secara rutin minim seminggu sekali dengan Boster Blue Copper sebanyak 1 ppm",
+                "Tebar Boster Manstap sebanyak 30 ppm secara berkala dan tiap habis hujan"
+            ],
+            "treatment": [
+                "Puasakan ikan selama 24 jam",
+                "Campur pakan dengan Boster Inrofloxs 25 sebanyak 5 ml atau 1 sendok teh per kg pakan, selama 3 hari berturut-turut"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Penyakit Luka atau Borok",
+            "species": "Ikan Lele",
+            "url-image-disease": "Penyakit-Lele-Luka.png",
+            "symptom": [
+                "Munculnya luka atau borok pada tubuh ikan, biasanya terlihat sebagai area yang lecet atau terbuka",
+                "Perubahan perilaku ikan, seperti berenang tidak teratur atau menghindari gerakan lainnya",
+                "Peningkatan kadar lendir pada tubuh ikan di sekitar area luka atau borok"
+            ],
+            "reason": [
+                "Perlakuan Grading",
+                "Infeksi bakterial Aeromonas"
+            ],
+            "prevention": [
+                "Penanganan Grading dengan hati-hati",
+                "Menjaga kebersihan dasar kolam dan aplikasi probiotik secara berkala",
+                "Peningkatan antibodi ikan dengan asupan Boster Fish Imunovit"
+            ],
+            "treatment": [
+                "Turunkan tinggi air, buka central drain hingga air terbuang 30%",
+                "Sterilisasi air dengan Boster Blue Copper sebanyak 2 ppm",
+                "Pengobatan oral, campur pakan dengan Boster Inrofloxs 25 atau Boster Fish Cyproxs sebanyak 5 ml atau 1 sendok teh per kg pakan, selama 3 hari berturut-turut"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Penyakit Jamur",
+            "species": "Ikan Lele",
+            "url-image-disease": "Penyakit-Lele-Jamur.png",
+            "symptom": [
+                "Adanya lapisan putih atau berwarna pada tubuh ikan, terutama di bagian kulit dan sirip seperti belang-belang atau warna yang tidak biasa",
+                "Kulit ikan terlihat lembab atau berkilap akibat pertumbuhan jamur dan mengalami pengelupasan atau pecah-pecah di beberapa bagian",
+                "Perubahan perilaku ikan, seperti penurunan nafsu makan atau berenang tidak teratur"
+            ],
+            "reason": [
+                "Kondisi perairan yang buruk, air pekat",
+                "Terjadi penumpukan bahan organik dalam air kolam, sehingga dijadikan media hidup oleh jamur",
+                "Tubuh ikan berjamur / lumut disekujur tubuh atau terjadi perubahan warna pada kulit (belang-belang)"
+            ],
+            "prevention": [
+                "Gunakan Boster Blue Copper dosis 1 ppm, pada saat persiapan tebar, dengan mengeringkan kolam dan sterilisasi dengan Boster 3 Chlor dengan dosis 10 ppm, kolam direndam selama 3 hari sehingga spora jamur mati",
+                "Saat tebar benih, desinfeksi benih yg akan di tebar dengan mencelup-celupkan beberapa detik ke dalam larutan 5 - 10 cc Boster Blue Copper yang dilarutkan dalam 20 Liter air"
+            ],
+            "treatment": [
+                "Lakukan sanitasi kolam di siphon atau buang air lewat Central Drain sebanyak 20-30%, kemudian tebar Boster Blue Copper 1 - 2 ppm",
+                "Berikan larutan air garam dapur 40 gram/m\u00B3 ke kolam jika jamur telah menempel pada ikan dan keesokan harinya tebarkan Boster Blue Copper kembali sesuai dosis",
+                "Berikan pengobatan antibiotik dengan Boster Inrofloxs 25 atau Boster Fish Cyproxs sebanyak 5 ml atau 1 sendok teh per kg pakan, selama 3 - 5 hari berturut-turut, untuk mencegah dan mengobati infeksi sekundernya"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Penyakit Bintik Putih",
+            "species": "Ikan Lele",
+            "url-image-disease": "Penyakit-Lele-Bintik-Putih.png",
+            "symptom": [
+                "Bintik-bintik berwarna putih terlihat pada permukaan kulit dan insang ikan",
+                "Kulit ikan terlihat mengalami iritasi dan kemerahan di sekitar bintik putih",
+                "Perilaku ikan menjadi tidak normal, seperti berenang secara tidak teratur atau menggosok-gosokkan tubuhnya pada permukaan objek di dalam kolam",
+                "Nafsu makan ikan menurun drastis atau ikan menolak makanan",
+                "Kondisi insang terlihat bengkak atau terdapat lendir berlebihan"
+            ],
+            "reason": [
+                "Parasit Ichthyophthirius Multifiliis Menyerang ikan lele yang dipelihara didalam kolam yang sanitasinya buruk",
+                "Penularan dapat terjadi dari pembawaan bibit dan telur / kista yg masih menempel pada dinding kolam",
+                "Permukaan kulit dan juga insang ikan lele banyak dijumpai bintik - bintik berwarna putih yang apabila dibiarkan terlalu lama, kulit dan insang ini akan rusak dan akhirnya kematian pada ikan lele"
+            ],
+            "prevention": [
+                "Pada saat persiapan tebar, dengan mengeringkan kolam dan sterilisasi dengan Boster 3-Chlor dengan dosis 10 ppm, kolam direndam selama 3 hari sehingga telur / kista parasit mati",
+                "Saat tebar benih, desinfeksi benih yang akan di tebar dengan mencelup-celupkan beberapa detik ke dalam larutan 5 - 10 cc Boster Blue Copper yang dilarutkan dalam 20 Liter air"
+            ],
+            "treatment": [
+                "Lakukan sanitasi kolam dengan siphon atau buang air lewat central drain sebanyak 20 - 30%, kemudian tebar Boster Blue Copper dengan dosis 1 - 2 ppm",
+                "Berikan larutan air garam dapur 40 gram/m\u00B3 ke kolam jika jamur telah menempel pada ikan dan keesokan harinya tebarkan Boster Blue Copper kembali sesuai dosis",
+                "Berikan pengobatan antibiotik dengan Boster Inrofloxs 25 atau Boster Fish Cyproxs sebanyak 5 ml atau 1 sendok teh per kg pakan, selama 3 - 5 hari berturut-turut, untuk mencegah dan mengobati infeksi sekundernya"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Penyakit Kuning",
+            "species": "Ikan Lele",
+            "url-image-disease": "Penyakit-Lele-Kuning.png",
+            "symptom": [
+                "Warna tubuh ikan menguning atau kekuningan pada beberapa bagian tubuh",
+                "Penurunan nafsu makan sehingga pertumbuhan ikan terhambat",
+                "Perilaku ikan menjadi lamban atau kurang aktif",
+                "Kematian ikan secara masal dalam populasi"
+            ],
+            "reason": [
+                "Infeksi bakteri atau penyakit parasit",
+                "Kualitas air yang buruk",
+                "Pakan yang tidak seimbang",
+                "Stres lingkungan"
+            ],
+            "prevention": [
+                "Jaga kualitas air dengan melakukan pergantian air secara rutin, gunakan sistem filtrasi yang baik",
+                "Hindari kepadatan populasi ikan yang terlalu tinggi",
+                "Pastikan pakan yang diberikan berkualitas dan seimbang",
+                "Berikan pakan tambahan yang mengandung vitamin dan mineral untuk meningkatkan daya tahan tubuh ikan"
+            ],
+            "treatment": [
+                "Sterilisasi air dengan cara sirkulasi air selama 3 hari berturut dan pemberian Boster Blue Copper dengan dosis 1 ppm (pada saat air masuk)",
+                "Campurkan Boster Inrofloxs-25 sebanyak 3 ml per kg pakan",
+                "Berikan pakan hanya 50%",
+                "Tambahkan multivitamin Boster Grotop sebanyak 5ml per kg pakan, Boster Premix Aquavita sebanyak 5ml per kg pakan"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Penyakit Berak Putih",
+            "species": "Udang",
+            "url-image-disease": "Penyakit-Udang-Berak-Putih.png",
+            "symptom": [
+                "Perubahan nafsu makan",
+                "Perubahan warna feses, usus, dan hepatopankreas udang",
+                "Perubahan warna tubuh udang",
+                "Perubahan kondisi karapas udang",
+                "Perilaku udang menjadi lethargic atau kurang aktif"
+            ],
+            "reason": [
+                "Infeksi bakteri dari genus Vibrio, terutama Vibrio parahaemolyticus, Vibrio fluvialis, Vibrio alginolyticus, dan Vibrio mimicus",
+                "Keberadaan parasit seperti Enterocytozoon hepatopenaei (EHP) dan protozoa gregarin"
+            ],
+            "prevention": [
+                "Pastikan kualitas air dan kebersihan kolam terjaga dengan baik",
+                "Pilih benih udang yang sehat dan bebas dari penyakit",
+                "Jaga kepadatan populasi udang agar tidak terlalu tinggi",
+                "Periksa kualitas pakan dan pastikan nutrisi seimbang, hindari overfeeding (memberikan pakan berlebihan)"
+            ],
+            "treatment": [
+                "Tebarkan probiotik lactobacillus dengan komposisi 500 ml Boster Bio Lacto, 300 ml Boster Planktop, 150 ml Boster Amino Liquid, 100 gram Boster Manstap, 50 gram Boster Vit. B Kompleks, 10 gram Ragi Tape, dan 50 liter Air bersih, campuran digunakan untuk ukuran kolam 1000 m\u00B3",
+                "Aerasi selama 8 - 24 jam",
+                "Puasakan terlebih dahulu selama 24 jam",
+                "Lakukan pemberian pakan secara bertahap mulai dari 30% - 50% - 70% - 100%",
+                "Campurkan pakan dengan Boster Bio Lacto sebanyak 10 ml per kg pakan, Boster Planktop sebanyak 5 ml per kg pakan"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Penyakit Myo (Virus Myonekrosis)",
+            "species": "Udang",
+            "url-image-disease": "Penyakit-Udang-Myo.png",
+            "symptom": [
+                "Udang mulai memucat, terdapat gumpalan putih di bagian perut dan segmen tubuh lainnya",
+                "Memerah di ruas bawah hingga ekor",
+                "Kram pada jaringan otot udang",
+                "Hepatopankreas mengecil"
+            ],
+            "reason": [
+                "Infeksi virus IMNV yang menyerang jaringan otot udang vanamei"
+            ],
+            "prevention": [
+                "Pastikan kualitas air dan kebersihan kolam terjaga dengan baik",
+                "Pilih benih udang yang sehat dan bebas dari penyakit",
+                "Jaga kepadatan populasi udang agar tidak terlalu tinggi",
+                "Periksa kualitas pakan dan pastikan nutrisi seimbang, hindari overfeeding (memberikan pakan berlebihan)"
+            ],
+            "treatment": [
+                "Perlakuan ke air, campurkan Boster Manstap dengan dosis 2 ppm, MgCl dengan dosis 2 ppm, CaCl dengan dosis 1 ppm, KCl dengan dosis 1 ppm (food grade), tebarkan ke kolam pada waktu sore hari selama 3 hari berturut-turut",
+                "Penebaran Boster Sel Multi dengan dosis 1 ppm pada waktu sore hari",
+                "Perlakuan ke pakan, campurkan Boster Khalproos sebanyak 5 - 10 gram per kg pakan dan air 200 ml"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Penyakit Bintik Hitam",
+            "species": "Udang",
+            "url-image-disease": "Penyakit-Udang-Bintik-Hitam.png",
+            "symptom": [
+                "Udang berenang tidak teratur di permukaan dan mati jika menabrak",
+                "Nafsu makan udang menurun sehingga perutnya kosong dan udang menjadi lemas",
+                "Terdapat bintik hitam pada karapas udang dan goresan tidak hilang saat digores dengan kuku",
+                "Udang mengalami stres akibat perubahan suhu, seperti hujan atau panas terik"
+            ],
+            "reason": [
+                "Infeksi bakteri Vibrio anguillarum, Shewanella aquimarina, dan Aeromonas hydrophila",
+                "Aktivitas enzim polyphenoloxidase (PPO) pada udang yang telah dipanen dan tidak ditangani dengan tepat",
+                "Penurunan mutu udang akibat proses biokimia dan autolisis setelah pemanenan"
+            ],
+            "prevention": [
+                "Simpan udang pada suhu beku -20 s/d -25 ℃ atau kemas dengan vacuum setelah pemanenan",
+                "Jaga kualitas air dengan baik untuk menghindari penyebaran penyakit"
+            ],
+            "treatment": [
+                "Pengobatan ke air, campurkan Boster Manstap dengan dosis 2 ppm, MgCl dengan dosis 2 ppm, CaCl dengan dosis 1 ppm, KCl dengan dosis 1 ppm (food grade), tebarkan ke kolam pada waktu sore hari selama 3 hari berturut-turut",
+                "Pengobatan ke pakan, campurkan Boster Khalproos sebanyak 5 gram per kg pakan dan air 200 ml"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Penyakit AHPND (Acute Hepatopancreatic Necrosis)",
+            "species": "Udang",
+            "url-image-disease": "Penyakit-Udang-AHPND.png",
+            "symptom": [
+                "Kematian massal dalam populasi udang",
+                "Penurunan nafsu makan sehingga pertumbuhan udang terhambat",
+                "Warna tubuh udang menjadi gelap atau hitam pada bagian hepatopankreas",
+                "Perilaku udang menjadi lethargic atau kurang aktif"
+            ],
+            "reason": [
+                "Infeksi bakteri Vibrio parahaemolyticus yang menghasilkan toksin"
+            ],
+            "prevention": [
+                "Menjaga kebersihan kolam secara teratur dan pastikan sumber air bersih dan berkualitas",
+                "Gunakan sistem filtrasi yang baik dan pastikan kondisi air optimal",
+                "Hindari overfeeding (memberikan pakan berlebihan)"
+            ],
+            "treatment": [
+                "Tebarkan kultur probiotik dengan komposisi 500 gram Boster Aquaenzyms, 350 gram Boster Planktop, 50 ml Boster Amino Liquid, 50 gram Boster Manstap, 50 gram Boster Vit. B Kompleks 50 gram, 20 gram Ragi Tape, dan 50 liter Air bersih, campuran digunakan untuk ukuran kolam 1000 m\u00B3",
+                "Aerasi selama 8 - 24 jam"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Penyakit Mata Keluar",
+            "species": "Ikan Nila",
+            "url-image-disease": "Penyakit-Nila-Mata-Keluar.png",
+            "symptom": [
+                "Mata ikan keluar atau menonjol",
+                "Ikan terlihat sulit berenang dan tidak seimbang",
+                "Penurunan nafsu makan"
+            ],
+            "reason": [
+                "Infeksi bakteri",
+                "Kondisi air yang buruk"
+            ],
+            "prevention": [
+                "Menjaga kualitas air tetap optimal",
+                "Memberikan pakan yang seimbang dan berkualitas"
+            ],
+            "treatment": [
+                "Sterilisasi air saat pagi hari dengan cara sirkulasi air sebanyak 50% - 70% dan tebarkan Boster Blue Copper dengan dosis 1 ppm untuk ikan besar atau 0.5 ppm untuk ikan kecil (pada saat air masuk)",
+                "Campurkan Boster Inrofloxs 25 sebanyak 3 ml per kg pakan dan Boster Vit. B Kompleks sebanyak 3 gram per kg pakan",
+                "Tebarkan Boster Planktop dengan dosis 5 - 10 ppm pada saat siang hari",
+                "Lakukan selama 3 - 4 hari berturut-turut"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Penyakit Bintik Merah atau Sisik Mengelupas",
+            "species": "Ikan Nila",
+            "url-image-disease": "Penyakit-Nila-Bintik-Merah.png",
+            "symptom": [
+                "Bintik merah pada tubuh ikan",
+                "Sisik ikan mengelupas",
+                "Ikan terlihat lesu dan kurang aktif"
+            ],
+            "reason": [
+                "Infeksi parasit atau bakteri",
+                "Kondisi air yang buruk"
+            ],
+            "prevention": [
+                "Menjaga kebersihan kolam secara teratur",
+                "Memastikan kondisi air optimal",
+                "Menghindari kepadatan populasi ikan yang tinggi",
+                "Berikan kultur probiotik secara berkala satu kali dalam seminggu, komposisi 100 ml Boster Planktop, 50 gram Boster Aquaenzyms, 50 ml Boster Sel Multi, 10 gram Boster Vit. B Kompleks, 10 liter air bersih, kemudian aerasi selama 12-16 jam, tebar ke kolam pada siang hari dengan dosis 200 ppm"
+            ],
+            "treatment": [
+                "Sterilisasi air saat pagi hari dengan cara sirkulasi air sebanyak 50% - 70% dan tebarkan Boster Blue Copper dengan dosis 1 ppm untuk ikan besar atau 0.5 ppm untuk ikan kecil (pada saat air masuk)",
+                "Campurkan Boster Inrofloxs 25 sebanyak 3 ml per kg pakan dan Boster Vit. B Kompleks sebanyak 3 gram per kg pakan",
+                "Tebarkan Boster Planktop dengan dosis 5 - 10 ppm pada saat siang hari",
+                "Lakukan selama 3 - 4 hari berturut-turut"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Penyakit Luka atau Borok",
+            "species": "Ikan Nila",
+            "url-image-disease": "Penyakit-Nila-Luka.png",
+            "symptom": [
+                "Luka atau borok pada tubuh ikan",
+                "Ikan terlihat lesu dan tidak aktif",
+                "Penurunan nafsu makan"
+            ],
+            "reason": [
+                "Infeksi bakteri atau jamur",
+                "Kondisi air yang buruk"
+            ],
+            "prevention": [
+                "Menjaga kebersihan kolam secara teratur",
+                "Memastikan kondisi air optimal",
+                "Menghindari kepadatan populasi ikan yang tinggi"
+            ],
+            "treatment": [
+                "Sterilisasi air dengan cara sirkulasi air sebanyak 30% dan tebarkan Boster Blue Copper dengan dosis 2 ppm (pada saat air masuk)",
+                "Campurkan Boster Inrofloxs 25 atau Boster Fish Cyproxs sebanyak 5 ml atau 1 sendok teh per kg pakan, Boster Premix Aquavita sebanyak 5 gram per kg pakan, selama 3 hari berturut-turut"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Penyakit Bintik Putih Jamur",
+            "species": "Ikan Patin",
+            "url-image-disease": "Penyakit-Patin-Bintik-Putih.png",
+            "symptom": [
+                "Bintik putih pada kulit, sirip, atau insang ikan",
+                "Ikan menggosokkan tubuhnya pada benda-benda di sekitar kolam",
+                "Penurunan nafsu makan"
+            ],
+            "reason": [
+                "Infeksi jamur Ichthyophthirius multifiliis"
+            ],
+            "prevention": [
+                "Menjaga kualitas air tetap optimal",
+                "Menghindari kepadatan populasi ikan yang tinggi"
+            ],
+            "treatment": [
+                "Lakukan pembuangan air total, kemudian tebar Boster Blue Copper dengan dosis 2 ppm",
+                "Berikan larutan air garam dapur 40 gram/m\u00B3 ke kolam jika jamur telah menempel pada ikan dan keesokan harinya tebarkan Boster Blue Copper kembali sesuai dosis",
+                "Campurkan Boster Inrofloxs 25 atau Boster Fish Cyproxs sebanyak 5 ml atau 1 sendok teh per kg pakan, Boster Premix Aquavita sebanyak 5 gram per kg pakan, selama 3 - 5 hari berturut-turut, untuk mencegah dan mengobati infeksi sekundernya"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Penyakit Luka atau Borok (Aeromonas)",
+            "species": "Ikan Patin",
+            "url-image-disease": "Penyakit-Patin-Luka.png",
+            "symptom": [
+                "Luka atau borok pada tubuh ikan",
+                "Ikan terlihat lesu dan tidak aktif",
+                "Penurunan nafsu makan"
+            ],
+            "reason": [
+                "Infeksi bakteri Aeromonas hydrophila"
+            ],
+            "prevention": [
+                "Menjaga kebersihan kolam secara teratur",
+                "Memastikan kondisi air optimal",
+                "Menghindari kepadatan populasi ikan yang tinggi"
+            ],
+            "treatment": [
+                "Sterilisasi air dengan cara sirkulasi air sebanyak 30% dan tebarkan Boster Blue Copper dengan dosis 2 ppm (pada saat air masuk)",
+                "Campurkan Boster Inrofloxs 25 atau Boster Fish Cyproxs sebanyak 5 ml atau 1 sendok teh per kg pakan, Boster Premix Aquavita sebanyak 5 gram per kg pakan, selama 3 hari berturut-turut"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Penyakit Gatal (Trichodina sp.)",
+            "species": "Ikan Patin",
+            "url-image-disease": "Penyakit-Patin-Gatal.png",
+            "symptom": [
+                "Ikan menggosokkan tubuhnya pada benda-benda di sekitar kolam",
+                "Penurunan nafsu makan",
+                "Ikan terlihat lesu dan tidak aktif"
+            ],
+            "reason": [
+                "Infeksi parasit Trichodina"
+            ],
+            "prevention": [
+                "Menjaga kebersihan kolam secara teratur",
+                "Memastikan kondisi air optimal",
+                "Menghindari kepadatan populasi ikan yang tinggi"
+            ],
+            "treatment": [
+                "Sterilisasi air dengan cara sirkulasi air sebanyak 30% dan tebarkan Boster Blue Copper dengan dosis 2 ppm (pada saat air masuk)",
+                "Campurkan Boster Inrofloxs 25 atau Boster Fish Cyproxs sebanyak 5 ml atau 1 sendok teh per kg pakan, Boster Premix Aquavita sebanyak 5 gram per kg pakan, selama 3 hari berturut-turut"
+            ]
+        }
+    ]
+}
