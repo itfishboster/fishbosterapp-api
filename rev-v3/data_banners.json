@@ -1,7 +1,19 @@
 {
-    "lastUpdated": "2024-06-05",
-    "total": 3,
+    "lastUpdated": "2024-09-11",
+    "total": 4,
     "data": [
+        {
+            "name": "Peserta Pelatihan Peluang Usaha Perikanan dari DWP DISPENDIK Kab. Sidoarjo",
+            "date": "2024-09-10",
+            "url-image-banner": "Banner-Pelatihan-DWP.png",
+            "url-post": "https://www.youtube.com/watch?v=6XdUAUi3FFE&t=5s"
+        },
+        {
+            "name": "Peserta Pelatihan dari Dinas Peternakan dan Perikanan Kab. Bondowoso",
+            "date": "2024-09-04",
+            "url-image-banner": "Banner-Pelatihan-Bondowoso.png",
+            "url-post": "https://www.youtube.com/watch?v=42zHE1ScKGU"
+        },
         {
             "name": "Mengikuti Pameran yang diselenggarakan Direktorat Jenderal Perikanan Budi Daya KPP RI",
             "date": "2019-10-03",
@@ -13,12 +25,6 @@
             "date": "2019-09-25",
             "url-image-banner": "Banner-Eduminawisata.png",
             "url-post": "https://www.fishbostercentre.com/2019/09/25/field-trip-ke-farm-fish-boster-centre/"
-        },
-        {
-            "name": "Peserta Kunjungan dan Pelatihan dari Myanmar di P2MKP Fish Boster Centre",
-            "date": "2016-11-14",
-            "url-image-banner": "Banner-Pelatihan.png",
-            "url-post": "https://www.fishbostercentre.com/2016/11/14/peserta-pelatihan-dari-myanmar-di-p2mkp-fish-boster-centre/"
         }
     ]
 }
