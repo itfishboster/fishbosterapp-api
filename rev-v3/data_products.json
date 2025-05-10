@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2024-10-18",
+    "lastUpdated": "2025-05-10",
     "total": 23,
     "data": [
         {
@@ -27,7 +27,7 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "AerO2-100.png",
-                    "url-buy-product": "https://id.shp.ee/GvnC4p8"
+                    "url-buy-product": "https://id.shp.ee/LjqfG9T"
                 }
             ]
         },
@@ -87,17 +87,12 @@
                 {
                     "size": "1 liter",
                     "url-image-product": "Aminoliquid-1.png",
-                    "url-buy-product": "https://id.shp.ee/n2kPYf1"
+                    "url-buy-product": "https://id.shp.ee/eAwdQkC"
                 },
                 {
                     "size": "100 ml",
                     "url-image-product": "Aminoliquid-100.png",
-                    "url-buy-product": "https://id.shp.ee/n2kPYf1"
-                },
-                {
-                    "size": "5 liter",
-                    "url-image-product": "Aminoliquid-5.png",
-                    "url-buy-product": "https://id.shp.ee/dijKJsG"
+                    "url-buy-product": "https://id.shp.ee/eAwdQkC"
                 }
             ]
         },
@@ -123,7 +118,7 @@
                 {
                     "size": "100 ml",
                     "url-image-product": "AquaSeptik-100.png",
-                    "url-buy-product": "https://id.shp.ee/Vm7CxFh"
+                    "url-buy-product": "https://id.shp.ee/yWB86sT"
                 }
             ]
         },
@@ -162,12 +157,12 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "Aquaenzyms-100.png",
-                    "url-buy-product": "https://id.shp.ee/NcxyqQ8"
+                    "url-buy-product": "https://id.shp.ee/wCtRBYx"
                 },
                 {
                     "size": "500 gram",
                     "url-image-product": "Aquaenzyms-500.png",
-                    "url-buy-product": "https://id.shp.ee/fomqY7q"
+                    "url-buy-product": "https://id.shp.ee/wCtRBYx"
                 }
             ]
         },
@@ -200,7 +195,7 @@
                 {
                     "size": "1 liter",
                     "url-image-product": "BioLacto-1.png",
-                    "url-buy-product": "https://id.shp.ee/xKqcefy"
+                    "url-buy-product": "https://id.shp.ee/8irC2YT"
                 }
             ]
         },
@@ -235,18 +230,18 @@
                 {
                     "size": "1 liter",
                     "url-image-product": "BlueCopper-1.png",
-                    "url-buy-product": "https://id.shp.ee/xDCDYsE"
+                    "url-buy-product": "https://id.shp.ee/XJXbP82"
                 },
                 {
                     "size": "100 ml",
                     "url-image-product": "BlueCopper-100.png",
-                    "url-buy-product": "https://id.shp.ee/rDHfEdk"
+                    "url-buy-product": "https://id.shp.ee/rAYKwib"
                 }
             ]
         },
         {
             "id": 7,
-            "name": "Boster Fish Cyproxs",
+            "name": "Boster Fish Cyproxs-12",
             "category": "Antibiotik Ciprofloxacin",
             "type-size": "kg",
             "url-image-product": "FishCyproxs-100.png",
@@ -269,7 +264,7 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "FishCyproxs-100.png",
-                    "url-buy-product": "https://id.shp.ee/QNHDZSZ"
+                    "url-buy-product": "https://id.shp.ee/hfSrrww"
                 }
             ]
         },
@@ -296,7 +291,7 @@
                 {
                     "size": "100 ml",
                     "url-image-product": "FishImunovit-100.png",
-                    "url-buy-product": "https://id.shp.ee/ce5ZPEZ"
+                    "url-buy-product": "https://id.shp.ee/anyFhfk"
                 }
             ]
         },
@@ -331,12 +326,12 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "Grotop-100.png",
-                    "url-buy-product": "https://id.shp.ee/QpxLYB2"
+                    "url-buy-product": "https://id.shp.ee/trUTqSr"
                 },
                 {
                     "size": "500 gram",
                     "url-image-product": "Grotop-500.png",
-                    "url-buy-product": "https://id.shp.ee/isHukHD"
+                    "url-buy-product": "https://id.shp.ee/WCtmkrv"
                 }
             ]
         },
@@ -360,12 +355,12 @@
                 {
                     "size": "100 ml",
                     "url-image-product": "Inrofloxs12Cair-100.png",
-                    "url-buy-product": "https://id.shp.ee/aNMUN3t"
+                    "url-buy-product": "https://id.shp.ee/rGfUuMG"
                 },
                 {
                     "size": "100 gram",
                     "url-image-product": "Inrofloxs12Serbuk-100.png",
-                    "url-buy-product": "https://id.shp.ee/aNMUN3t"
+                    "url-buy-product": "https://id.shp.ee/rGfUuMG"
                 }
             ]
         },
@@ -389,12 +384,12 @@
                 {
                     "size": "100 ml",
                     "url-image-product": "Inrofloxs25Cair-100.png",
-                    "url-buy-product": "https://id.shp.ee/1ZEnwnL"
+                    "url-buy-product": "https://id.shp.ee/EntJCQK"
                 },
                 {
                     "size": "100 gram",
                     "url-image-product": "Inrofloxs25Serbuk-100.png",
-                    "url-buy-product": "https://id.shp.ee/1ZEnwnL"
+                    "url-buy-product": "https://id.shp.ee/EntJCQK"
                 }
             ]
         },
@@ -432,7 +427,7 @@
                 {
                     "size": "500 gram",
                     "url-image-product": "Khalproos-500.png",
-                    "url-buy-product": "https://id.shp.ee/j2r87uL"
+                    "url-buy-product": "https://id.shp.ee/Co9abZ3"
                 }
             ]
         },
@@ -462,7 +457,7 @@
                 {
                     "size": "1 kg",
                     "url-image-product": "Manstap-1.png",
-                    "url-buy-product": "https://id.shp.ee/wpLthMH"
+                    "url-buy-product": "https://id.shp.ee/Hw9D77z"
                 }
             ]
         },
@@ -498,7 +493,7 @@
                 {
                     "size": "1 liter",
                     "url-image-product": "Planktop-1.png",
-                    "url-buy-product": "https://id.shp.ee/fixrXaG"
+                    "url-buy-product": "https://id.shp.ee/p2VG4eR"
                 }
             ]
         },
@@ -552,12 +547,12 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "PremixAquavita-100.png",
-                    "url-buy-product": "https://id.shp.ee/8zScMc4"
+                    "url-buy-product": "https://id.shp.ee/hV3CCVh"
                 },
                 {
                     "size": "500 gram",
                     "url-image-product": "PremixAquavita-500.png",
-                    "url-buy-product": "https://id.shp.ee/TpDZBvF"
+                    "url-buy-product": "https://id.shp.ee/vrkVjY8"
                 }
             ]
         },
@@ -584,12 +579,12 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "Progol-100.png",
-                    "url-buy-product": "https://id.shp.ee/AUEvTYG"
+                    "url-buy-product": "https://id.shp.ee/2YAjzrm"
                 },
                 {
                     "size": "500 gram",
                     "url-image-product": "Progol-500.png",
-                    "url-buy-product": "https://id.shp.ee/AUEvTYG"
+                    "url-buy-product": "https://id.shp.ee/2YAjzrm"
                 }
             ]
         },
@@ -614,7 +609,7 @@
                 {
                     "size": "50 gram",
                     "url-image-product": "ProtecPlus-50.png",
-                    "url-buy-product": "https://id.shp.ee/1dBub3c"
+                    "url-buy-product": "https://id.shp.ee/AXdErkb"
                 }
             ]
         },
@@ -649,7 +644,7 @@
                 {
                     "size": "1 liter",
                     "url-image-product": "SelMulti-1.png",
-                    "url-buy-product": "https://id.shp.ee/AY1645f"
+                    "url-buy-product": "https://id.shp.ee/z4miPXr"
                 }
             ]
         },
@@ -676,7 +671,7 @@
                 {
                     "size": "1 liter",
                     "url-image-product": "ShrimpImunovit-1.png",
-                    "url-buy-product": "https://id.shp.ee/7eBWRRR"
+                    "url-buy-product": "https://id.shp.ee/Cimm81a"
                 }
             ]
         },
@@ -701,7 +696,7 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "StressOff-100.png",
-                    "url-buy-product": "https://id.shp.ee/GJzKfvm"
+                    "url-buy-product": "https://id.shp.ee/JrjWMdF"
                 }
             ]
         },
@@ -737,12 +732,12 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "VitB-100.png",
-                    "url-buy-product": "https://id.shp.ee/4u2DRN8"
+                    "url-buy-product": "https://id.shp.ee/fsm2Yn3"
                 },
                 {
                     "size": "1 kg",
                     "url-image-product": "VitB-1.png",
-                    "url-buy-product": "https://id.shp.ee/ACxH5XY"
+                    "url-buy-product": "https://id.shp.ee/V6Xiwmj"
                 }
             ]
         },
@@ -766,12 +761,12 @@
                 {
                     "size": "100 gram",
                     "url-image-product": "VitC-100.png",
-                    "url-buy-product": "https://id.shp.ee/rwAeSjz"
+                    "url-buy-product": "https://id.shp.ee/afHVb4J"
                 },
                 {
                     "size": "1 kg",
                     "url-image-product": "VitC-1.png",
-                    "url-buy-product": "https://id.shp.ee/rwAeSjz"
+                    "url-buy-product": "https://id.shp.ee/afHVb4J"
                 }
             ]
         },
@@ -821,17 +816,17 @@
                 {
                     "size": "1 liter",
                     "url-image-product": "Vitaliquid-1.png",
-                    "url-buy-product": "https://id.shp.ee/U7RCKwa"
+                    "url-buy-product": "https://id.shp.ee/s3wrLiW"
                 },
                 {
                     "size": "100 ml",
                     "url-image-product": "Vitaliquid-100.png",
-                    "url-buy-product": "https://id.shp.ee/U7RCKwa"
+                    "url-buy-product": "https://id.shp.ee/s3wrLiW"
                 },
                 {
                     "size": "500 ml",
                     "url-image-product": "Vitaliquid-500.png",
-                    "url-buy-product": "https://id.shp.ee/U7RCKwa"
+                    "url-buy-product": "https://id.shp.ee/s3wrLiW"
                 }
             ]
         }
